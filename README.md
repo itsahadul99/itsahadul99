@@ -1,24 +1,18 @@
-# 💫 About Me:
-Hello there! 👋<br><br>I'm Ahadul Islam, an enthusiastic frontend developer with a deep curiosity for the dynamic world of web technologies. Grounded in HTML, CSS, and JavaScript, I embark on a quest to elevate user experiences and breathe life into innovative ideas.<br><br>🚀 Quick Overview<br><br>- 👨‍💻 Currently immersing myself in the realms of frontend development.<br>- 🎓 Graduated with a degree in Diploma in Computer Science and Technology from Mymensingh Polytechnic Institute.<br>- 🌱 A perpetual learner, always staying abreast of the latest trends and technologies.<br>- 💡 Eager to contribute to open source projects and collaborate with fellow developers.<br><br>🔧 Skills<br><br>- Languages: HTML, CSS, JavaScript<br>- Frameworks/Libraries: Exploring the possibilities of various frontend technologies<br>- Tools: Git, VSCode<br><br>Feel free to connect, collaborate, and let's create amazing things together!
+<img align="center" width="100%" src="https://i.postimg.cc/KvDC3Jbd/AHADUL-ISLAM.png">
+<h1 align="center">Hi 👋, I'm Ahadul Islam </h1>
+<h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+- ⚡ Fun fact **I am funny😅
 
-## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@itsahadul99) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Itsahadul) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="[https://linkedin.com/in/ashutosh mishra](https://www.linkedin.com/in/md-ahadul-islam-b87443241/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahadul islam" height="30" width="40" /></a>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsahadul99&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=itsahadul99&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsahadul99&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  </p>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=itsahadul99&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>

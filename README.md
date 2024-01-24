@@ -32,15 +32,23 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsahadul99&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=itsahadul99&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsahadul99&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- GitHub Stats -->
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
 
----
-[![](https://visitcount.itsvg.in/api?id=itsahadul99&icon=0&color=0)](https://visitcount.itsvg.in)
+![Ahadul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsahadul99&show_icons=true&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Streak and Contributions -->
+## 🔥 GitHub Streak and Contributions
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsahadul99&theme=radical)](https://github.com/itsahadul99)
+
+
+<!-- Top Languages Used -->
+## 🚀 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsahadul99&layout=compact)](https://github.com/itsahadul99)
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>

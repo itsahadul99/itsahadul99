@@ -40,7 +40,7 @@
   <!-- GitHub Stats -->
   <h2>📊 GitHub Stats</h2>
 
-  ![Ahadul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsahadul99&show_icons=true&theme=radical)
+  ![Ahadul's GitHub Status](https://github-readme-stats.vercel.app/api?username=itsahadul99&show_icons=true&theme=radical)
 
   <!-- Streak and Contributions -->
   <h2>🔥 GitHub Streak and Contributions</h2>

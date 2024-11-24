@@ -1,3 +1,12 @@
+<a href="https://www.linkedin.com/in/ahadaulislam">
+    <img src="./images/cover 3.webp"/>
+</a>
+<a href="https://www.linkedin.com/in/ahadaulislam">
+    <img src="./images/cover 2.webp"/>
+</a>
+<a href="https://www.linkedin.com/in/ahadaulislam">
+    <img src="./images/cover 4.webp"/>
+</a>
 <h1 align="center">👋 Hi, I'm Ahadul Islam!</h1>
 
 <div align="center">
@@ -14,17 +23,7 @@
 ---
 
 ## 🌍 Connect With Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/ahadaulislam/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%20%F0%9F%8C%8D%20Ahadul%20Islam-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/itsahadul99" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%20%F0%9F%93%9C%20Ahadul%20Islam-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:itisahadul@gmail..com">
-    <img src="https://img.shields.io/badge/Email-%20%F0%9F%93%A1%20itishadul@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+**_<p align="center"> [<img height="55" src="./images/icons/website.png">]('#)[<img height="55" src="./images/icons/facebook.png">](https://www.facebook.com/md.ahadul.islam.53831)[<img height="55" src="./images/icons/linkedin.png">](https://www.linkedin.com/in/ahadaulislam/) </p>_**
 
 ---
 

@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/ahadaulislam">
-    <img src="./images/cover 4.webp" alt="Ahadul Islam - Front-End Web Developer"/>
+    <img style="width: 100%; height: 520px; object-fit: cover;" src="./images/cover 4.webp" alt="Ahadul Islam - Front-End Web Developer"/>
 </a>
 
 <h1 align="center">👋 Hi, I'm Ahadul Islam!</h1>

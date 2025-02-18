@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/ahadaulislam">
+<a href="https://www.linkedin.com/in/ahadaulislam" target="_blank">
     <img style="width: 100%; height: 520px; object-fit: cover;" src="./images/cover 4.webp" alt="Ahadul Islam - Front-End Web Developer"/>
 </a>
 
@@ -28,9 +28,9 @@
 
 ## 🌍 Connect With Me
 <p align="center">
-  <a href="https://ahadul-portfolio.vercel.app"><img height="55" src="./images/icons/website.png" alt="Website"/></a>
-  <a href="https://www.facebook.com/md.ahadul.islam.53831"><img height="55" src="./images/icons/facebook.png" alt="Facebook"/></a>
-  <a href="https://www.linkedin.com/in/ahadaulislam/"><img height="55" src="./images/icons/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://ahadul-portfolio.vercel.app" target="_blank"><img height="55" src="./images/icons/website.png" alt="Website"/></a>
+  <a href="https://www.facebook.com/md.ahadul.islam.53831" target="_blank"><img height="55" src="./images/icons/facebook.png" alt="Facebook"/></a>
+  <a href="https://www.linkedin.com/in/ahadaulislam/" target="_blank"><img height="55" src="./images/icons/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
 ---

@@ -3,7 +3,6 @@
   <h1 style="font-size: 3rem; margin: 0; background: linear-gradient(90deg, #ff8a00, #e52e71, #b36bff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradientShift 5s ease infinite; background-size: 200% 200%;">
     Hello, I'm Ahadul Islam 👋
   </h1>
-
   <!-- Professional Tagline with Icon -->
   <div style="border: 2px solid rgba(68, 68, 68, 0.3); border-radius: 50px; padding: 12px 25px; display: inline-block; margin: 1rem 0; background: rgba(0,0,0,0.1); backdrop-filter: blur(5px);">
     <h3 style="margin: 0; font-weight: 400; display: flex; align-items: center; gap: 8px;">
@@ -28,8 +27,6 @@
   <div style="height: 2px; width: 80%; margin: 1.5rem auto; background: linear-gradient(90deg, transparent, rgba(0,209,255,0.5), transparent); animation: borderPulse 3s ease infinite;"></div>
 </div>
 
-## 🛠️ My Tech Toolbox
-
 ```mermaid
 graph LR
     A[Frontend] --> B[React, Next.js]
@@ -52,14 +49,12 @@ graph LR
     I --> M
 
 ```
----
-## ⚡ GitHub Stats & Activity
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;"> <img src="https://github-readme-stats.vercel.app/api?username=itsahadul99&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" style="max-width: 48%;"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsahadul99&theme=radical&hide_border=true" alt="GitHub Streak" style="max-width: 48%;"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsahadul99&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" style="width: 100%;"/> </div>
-
-## 🪐 Connect Across the Universe
 <p align="center">
   <a href="https://ahadul-portfolio.vercel.app" target="_blank"><img height="55" src="./images/icons/website.png" alt="Website"/></a>
   <a href="https://www.facebook.com/devahadul" target="_blank"><img height="55" src="./images/icons/facebook.png" alt="Facebook"/></a>
   <a href="https://www.linkedin.com/in/ahadaulislam/" target="_blank"><img height="55" src="./images/icons/linkedin.png" alt="LinkedIn"/></a>
 </p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsahadul99&theme=radical&hide_border=true" alt="GitHub Streak" style="max-width: 48%;"/> </div>
+
+
 

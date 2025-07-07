@@ -1,25 +1,24 @@
-<div align="center" style="padding: 2rem 0; font-family: 'Segoe UI', sans-serif;">
-  <!-- Animated Gradient Name -->
-  <h1 style="font-size: 3rem; margin: 0; background: linear-gradient(90deg, #ff8a00, #e52e71, #b36bff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradientShift 5s ease infinite; background-size: 200% 200%;">
-    Hello, I'm Ahadul Islam 👋
+<div align="center">
+  <!-- 🔥 Animated Gradient Name -->
+  <h1>
+   👨 Ahadul Islam 
   </h1>
-  <!-- Professional Tagline with Icon -->
-  <div style="border: 2px solid rgba(68, 68, 68, 0.3); border-radius: 50px; padding: 12px 25px; display: inline-block; margin: 1rem 0; background: rgba(0,0,0,0.1); backdrop-filter: blur(5px);">
-    <h3 style="margin: 0; font-weight: 400; display: flex; align-items: center; gap: 8px;">
-      <span style="font-size: 1.2em;">👨‍💻</span> 
-      Full Stack Developer | 
-      <span style="color: #00D1FF;">Open Source</span> Contributor | 
-      Digital Craftsman
+
+  <!-- 🔧 Tagline / Identity Badge -->
+  <div style="border: 2px solid rgba(255, 255, 255, 0.15); border-radius: 50px; padding: 12px 30px; display: inline-block; margin: 1rem 0; background: rgba(0,0,0,0.2); backdrop-filter: blur(6px); color: #fff;">
+    <h3 style="margin: 0; font-weight: 400; display: flex; align-items: center; gap: 10px; font-size: 1.1rem;">
+      👨‍💻 Full Stack Web Wizard &nbsp;|&nbsp; 🔓 Open Source Addict &nbsp;|&nbsp; 🎨 UI Lover
     </h3>
   </div>
 
-  <!-- Personalized Typing Animation -->
+  <!-- ⚡ Typing Animation -->
   <div style="margin: 1.5rem 0;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=00D1FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+workshop!;8+years+of+coding+experience;Specialized+in+MERN+stack;Passionate+about+clean+code;Let's+build+something+amazing+together" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=00FFF0&center=true&vCenter=true&width=850&lines=Building+products+that+feel+magic+%F0%9F%94%AE;MERN+stack+dev+with+a+passion+for+UX+%26+performance;From+pixel+to+production+with+clean+code;Firebase+Auth%2C+Stripe+Pay%2C+Tailwind+perfection;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
   </div>
+</div>
 
   <!-- Quick Intro Blurb -->
-  <p style="max-width: 700px; margin: 1rem auto; line-height: 1.6; color: #d1d5db;">
+  <p align="center">
     I transform complex problems into elegant solutions through code. With expertise in both frontend and backend development, I create seamless digital experiences that users love. When I'm not coding, you'll find me contributing to open-source projects or mentoring aspiring developers.
   </p>
 
@@ -55,6 +54,3 @@ graph LR
   <a href="https://www.linkedin.com/in/ahadaulislam/" target="_blank"><img height="55" src="./images/icons/linkedin.png" alt="LinkedIn"/></a>
 </p>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsahadul99&theme=radical&hide_border=true" alt="GitHub Streak" style="max-width: 48%;"/> </div>
-
-
-

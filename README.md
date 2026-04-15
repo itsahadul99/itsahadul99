@@ -1,56 +1,143 @@
+<!-- ░▒▓█ HEADER █▓▒░ -->
+<a href="https://dev-ahadul.vercel.app">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Ahadul%20Islam&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20MERN%20Specialist%20%E2%80%A2%20UI%20Craftsman&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+</a>
+
 <div align="center">
-  <!-- 🔥 Animated Gradient Name -->
-  <h1>
-   👨 Ahadul Islam 
-  </h1>
 
-  <!-- 🔧 Tagline / Identity Badge -->
-  <div style="border: 2px solid rgba(255, 255, 255, 0.15); border-radius: 50px; padding: 12px 30px; display: inline-block; margin: 1rem 0; background: rgba(0,0,0,0.2); backdrop-filter: blur(6px); color: #fff;">
-    <h3 style="margin: 0; font-weight: 400; display: flex; align-items: center; gap: 10px; font-size: 1.1rem;">
-      👨‍💻 Full Stack Web Wizard &nbsp;|&nbsp; 🔓 Open Source Addict &nbsp;|&nbsp; 🎨 UI Lover
-    </h3>
-  </div>
+<a href="https://dev-ahadul.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=%7B+%22status%22%3A+%22available+for+hire%22+%7D;%3C+Crafting+pixel-perfect+web+experiences+%2F%3E;const+passion+%3D+code+%2B+coffee+%2B+clean+design;git+commit+-m+%22shipping+ideas+worth+using%22" alt="Typing intro" />
+</a>
 
-  <!-- ⚡ Typing Animation -->
-  <div style="margin: 1.5rem 0;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=00FFF0&center=true&vCenter=true&width=850&lines=Building+products+that+feel+magic+%F0%9F%94%AE;MERN+stack+dev+with+a+passion+for+UX+%26+performance;From+pixel+to+production+with+clean+code;Firebase+Auth%2C+Stripe+Pay%2C+Tailwind+perfection;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
-  </div>
+<br/>
+
+<a href="https://dev-ahadul.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ahadaulislam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.facebook.com/devahadul"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="mailto:itisahadul@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=itsahadul99&style=flat-square&color=22d3ee&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/itsahadul99?style=flat-square&color=22d3ee&labelColor=0a0a0a&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/itsahadul99?style=flat-square&color=22d3ee&labelColor=0a0a0a&label=STARS" />
+
 </div>
 
-  <!-- Quick Intro Blurb -->
-  <p align="center">
-    I transform complex problems into elegant solutions through code. With expertise in both frontend and backend development, I create seamless digital experiences that users love. When I'm not coding, you'll find me contributing to open-source projects or mentoring aspiring developers.
-  </p>
+<!-- ░▒▓█ NEON LINE █▓▒░ -->
+<img src="https://raw.githubusercontent.com/BrunnerLivio/BrunnerLivio/master/images/lemon.gif" align="right" width="170" />
 
-  <!-- Animated Border Separator -->
-  <div style="height: 2px; width: 80%; margin: 1.5rem auto; background: linear-gradient(90deg, transparent, rgba(0,209,255,0.5), transparent); animation: borderPulse 3s ease infinite;"></div>
-</div>
+### `whoami`
 
-```mermaid
-graph LR
-    A[Frontend] --> B[React, Next.js]
-    A --> C[Redux]
-    A --> D[HTML/CSS/JS/TS]
-    A --> E[Tailwind, shadcn/ui]
-    
-    F[Backend] --> G[Node.js, Express]
-    F --> H[MongoDB, Mongoose]
-    
-    I[Tools] --> J[Git, GitHub, GitLab]
-    I --> K[VS Code, Figma]
-    I --> L[Webpack, Photoshop]
-    
-    M[Platforms] --> N[WordPress]
-    M --> O[Shopify]
-    
-    A --> F
-    F --> I
-    I --> M
-
+```ts
+const ahadul = {
+  pronouns:    "he/him",
+  role:        "Full-Stack Web Developer",
+  stack:       ["React", "Next.js", "TypeScript", "Node", "Mongo"],
+  currently:   "Building SaaS tools & shipping OSS",
+  learning:    ["System Design", "DevOps", "AI-assisted workflows"],
+  philosophy:  "Ship fast, refactor faster, design always",
+  architecture:"Clean code > clever code",
+  superpower:  "Turning Figma frames into production UIs",
+};
 ```
-<p align="center">
-  <a href="https://dev-ahadul.vercel.app" target="_blank"><img height="55" src="./images/icons/website.png" alt="Website"/></a>
-  <a href="https://www.facebook.com/devahadul" target="_blank"><img height="55" src="./images/icons/facebook.png" alt="Facebook"/></a>
-  <a href="https://www.linkedin.com/in/ahadaulislam/" target="_blank"><img height="55" src="./images/icons/linkedin.png" alt="LinkedIn"/></a>
-</p>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsahadul99&theme=radical&hide_border=true" alt="GitHub Streak" style="max-width: 48%;"/> </div>
+
+> *"Simplicity is the ultimate sophistication." — Leonardo da Vinci*
+
+<br/>
+
+<!-- ░▒▓█ TECH ARSENAL █▓▒░ -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /> &nbsp; Tech Arsenal
+
+<table align="center">
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">🎨 Frontend</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,redux,tailwind,html,css,js&perline=4" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">⚙️ Backend</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman,graphql&perline=3" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">🛠️ Tools</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,wordpress,photoshop&perline=4" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ░▒▓█ STATS █▓▒░ -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" /> &nbsp; GitHub Universe
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=itsahadul99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=itsahadul99&theme=tokyonight&hide_border=true&background=0D1117&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=c9d1d9" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsahadul99&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22d3ee&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+<br/>
+
+<!-- ░▒▓█ ACTIVITY GRAPH █▓▒░ -->
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" /> &nbsp; Contribution Pulse
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsahadul99&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22d3ee&line=22d3ee&point=ffffff&area=true&area_color=22d3ee" />
+</div>
+
+<br/>
+
+<!-- ░▒▓█ SNAKE █▓▒░ -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
+</div>
+
+<br/>
+
+<!-- ░▒▓█ QUOTE █▓▒░ -->
+<div align="center">
+
+## 💭 &nbsp; Thought of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+<br/>
+
+<!-- ░▒▓█ FOOTER CTA █▓▒░ -->
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30" /> &nbsp; Let's Build Something Wild
+
+<div align="center">
+
+```diff
++ Open to   → Freelance • Collaborations • Full-time roles
++ Good at   → SaaS dashboards • E-commerce • Landing pages • APIs
++ Obsessed  → Performance • Accessibility • Motion • DX
+! Rule #1   → Every pixel matters, every millisecond counts
+```
+
+<a href="mailto:itisahadul@gmail.com">
+  <img src="https://img.shields.io/badge/📬%20Drop%20me%20a%20line-22d3ee?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://dev-ahadul.vercel.app">
+  <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-0a0a0a?style=for-the-badge&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
+
+<sub>⭐ Crafted with care by <a href="https://github.com/itsahadul99">@itsahadul99</a> — if you like what you see, drop a star and let's connect!</sub>
+
+</div>
